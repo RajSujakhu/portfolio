@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-labelledby="title desc">
+  <title id="title">Letter R Logo</title>
+  <desc id="desc">A minimalist white letter R centered in a deep navy rounded square.</desc>
+  <rect width="512" height="512" rx="112" fill="#111827"/>
+  <path d="M150 104h112c79 0 126 42 126 111 0 48-25 83-68 100l83 93h-91l-72-83h-9v83h-81V104zm81 69v83h29c31 0 47-14 47-41s-16-42-47-42h-29z" fill="#ffffff"/>
+</svg>
